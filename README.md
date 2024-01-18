@@ -151,8 +151,6 @@
 
 ## Библиотеки
 
-'''
-
 absl-py==1.2.0
 alembic==1.6.5
 annotated-types==0.6.0
@@ -427,5 +425,3 @@ xlrd==2.0.1
 xmltodict==0.12.0
 ydata-profiling==4.6.4
 zipp==3.5.0
-
-'''
